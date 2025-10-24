@@ -1,2 +1,2 @@
 # Pharmacological_experiment_1_WuhanUniversity
-药理学第一次实验的数据处理文件
+武汉大学药学院2023级药理学第一次实验的数据处理文件
